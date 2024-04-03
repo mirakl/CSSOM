@@ -1,5 +1,5 @@
 {
-  "name": "mirakl-cssom",
+  "name": "@mirakl/cssom",
   "description": "CSS Object Model implementation and CSS parser",
   "keywords": [
     "CSS",
